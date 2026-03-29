@@ -30,13 +30,18 @@ This project explores how a neural network can learn to recognize digits by impl
 
 ## 🛠️ Setup Instructions
 
-### 1. Clone the Repository
+### 1. Install dependencies with:
+```bash
+pip install -r requirements.txt
+```
+
+### 2. Clone the Repository
 ```bash
 git clone https://github.com/SakshamSingh6409/Introduction-to-AI-Project
 cd Introduction-to-AI-Project
 ```
 
-### 2. Run Training and Testing
+### 3. Run Training and Testing
 ```bash
 python main.py
 ```
